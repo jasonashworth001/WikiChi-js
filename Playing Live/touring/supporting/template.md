@@ -1,26 +1,26 @@
 ---
-title: agents
+title: template
 description: 
 published: true
-date: 2025-03-29T01:47:54.368Z
+date: 2025-03-29T01:48:08.832Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-29T01:47:52.648Z
+dateCreated: 2025-03-29T01:48:07.231Z
 ---
 
 # template
 
 This is a template for a page.  Do what you will!
 
-###Section Header
+### Section Header
 
 Content
 
-###Section Header 2
+### Section Header 2
 
 More Content
 
-###You Get The Idea
+### You Get The Idea
 
 Yes, content...
 

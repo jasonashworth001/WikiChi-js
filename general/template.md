@@ -2,10 +2,10 @@
 title: template
 description: 
 published: true
-date: 2025-03-29T01:47:39.638Z
+date: 2025-03-29T01:48:08.832Z
 tags: 
 editor: markdown
-dateCreated: 2025-03-29T01:47:38.021Z
+dateCreated: 2025-03-29T01:48:07.231Z
 ---
 
 # template

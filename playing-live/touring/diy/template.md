@@ -1,3 +1,13 @@
+---
+title: template
+description: 
+published: true
+date: 2025-03-29T01:48:11.138Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-29T01:48:09.531Z
+---
+
 # template
 
 This is a template for a page.  Do what you will!

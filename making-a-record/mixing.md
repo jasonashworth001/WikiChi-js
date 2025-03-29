@@ -1,3 +1,13 @@
+---
+title: mixing
+description: 
+published: true
+date: 2025-03-29T01:47:46.932Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-29T01:47:45.256Z
+---
+
 # template
 
 This is a template for a page.  Do what you will!

@@ -1,3 +1,13 @@
+---
+title: managers
+description: 
+published: true
+date: 2025-03-29T01:47:59.219Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-29T01:47:57.556Z
+---
+
 # template
 
 This is a template for a page.  Do what you will!

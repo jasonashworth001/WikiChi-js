@@ -1,26 +1,32 @@
-<!--
+---
 title: Hello!
 description: Welcome to WikiChi, a knowledge base for Chicago musicians.
 published: true
-date: 2025-03-30T16:29:19.172Z
+date: 2025-03-30T16:31:11.167Z
 tags: 
-editor: ckeditor
+editor: markdown
 dateCreated: 2025-03-29T10:56:59.454Z
--->
+---
 
-<p>Behold, the humble attempts at a self-hosted knowledge base for Chicago musicians.</p>
-<p>This is intended as a living, collaborative document. &nbsp;If you see anything you think could be improved or adjusted, feel free to reach out.</p>
-<p>Onward &amp; upward!</p>
-<pre><code class="language-plaintext">                                     )
+Behold, the humble attempts at a self-hosted knowledge base for Chicago musicians.
+
+This is intended as a living, collaborative document.  If you see anything you think could be improved or adjusted, feel free to reach out.
+
+[Forum](https://forum.wikichi.org)
+
+Onward & upward!
+
+```plaintext
+                                     )
                             )      ((     (
                            (        ))     )
                     )       )      //     (
-               _   (        __    (     ~-&gt;&gt;
-        ,-----' |__,_~~___&lt;'__`)-~__--__-~-&gt;&gt; &lt;
-        | //  : | -__   ~__ o)____)),__ - '&gt; &gt;-  &gt;
-        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ -&gt;&gt; - ,  &gt;&gt;
-        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -&lt;-  &gt;&gt;
-        `-----._| `  -__`-- - ~~ -- ` --~&gt; &gt;
+               _   (        __    (     ~->>
+        ,-----' |__,_~~___<'__`)-~__--__-~->> <
+        | //  : | -__   ~__ o)____)),__ - '> >-  >
+        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
+        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
+        `-----._| `  -__`-- - ~~ -- ` --~> >
          _/___\_    //)_`//  | ||]
    _____[_______]_[~~-_ (.L_/  ||
   [____________________]' `\_,/'/
@@ -29,9 +35,11 @@ dateCreated: 2025-03-29T10:56:59.454Z
     ||| /          /|| I==||
     ||| \       __/_||  __||__
 -----||-/------`-._/||-o--o---o---
-  ~~~~~'</code></pre>
-<p>&nbsp;</p>
-<pre><code class="language-plaintext">                                         .
+  ~~~~~'
+```
+
+```plaintext
+                                         .
                                           `.
 
                                      ...
@@ -102,7 +110,7 @@ ________     /  #### ############  |       _|           .'
             | ####################  |       |   /   .'
             | #### ###############  |       |  /
             | #### ###############  |      /|      ----
-          . | #### ###############  |    .'&lt;    ____
+          . | #### ###############  |    .'<    ____
         .'  | ####################  | _.'-'\|
       .'    |   ##################  |       |
              `.   ################  |       |
@@ -117,5 +125,5 @@ ________     /  #### ############  |       _|           .'
       `-._   `-._ . ..   .' |      __.--'
           `-._   `-._  .' .'|__.--'
               `-._   `' .'
-                  `-._.'</code></pre>
-<p>&nbsp;</p>
+                  `-._.'
+```

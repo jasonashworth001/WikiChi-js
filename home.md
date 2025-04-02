@@ -7,7 +7,7 @@ tags:
 editor: markdown
 dateCreated: 2025-03-29T10:56:59.454Z
 ---
-
+ 
 Behold, the humble attempts at a self-hosted knowledge base for Chicago musicians.
 
 This is intended as a living, collaborative document.  If you see anything you think could be improved or adjusted, feel free to reach out.

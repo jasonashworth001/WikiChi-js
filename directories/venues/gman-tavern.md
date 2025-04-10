@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Gman Tavern
+description: 3740 N. Clark Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3740 N. Clark Street, Chicago, IL 60613
 
 ## Overview
 
-Live music can be held any night of the week.
+"A neighborhood favorite since 1976." Live music up to 7 nights a week.
 
 ## Capacity
 
-
+150
 
 ## Contact
 
-(312) 835-0498
+(773) 549-2050
 
 ## Website
 
-https://basslinechi.com/
+https://gmantavern.com
 
 ## Age
 

@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Carols Pub
+description: 4659 N. Clark Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+4659 N. Clark Street, Chicago, IL 60640
 
 ## Overview
 
-Live music can be held any night of the week.
+"The original Chicago Honky-Tonks back with live music, karaoke and plenty of liquor. Established in 1973." They host live music Thursday-Saturday nights.
 
 ## Capacity
 
-
+200 approximately.
 
 ## Contact
 
-(312) 835-0498
+(773) 754-8000
 
 ## Website
 
-https://basslinechi.com/
+http://www.carolspub.com/
 
 ## Age
 

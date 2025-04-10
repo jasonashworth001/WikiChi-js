@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Sleeping Village
+description: 3734 W. Belmont Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3734 W. Belmont Avenue, Chicago, IL 60618
 
 ## Overview
 
-Live music can be held any night of the week.
+"beer | cider | coffee | live music." Shows are held Wednesday - Sunday nights.
 
 ## Capacity
 
-
+300
 
 ## Contact
 
-(312) 835-0498
+(773) 654-3971
 
 ## Website
 
-https://basslinechi.com/
+https://sleeping-village.com/
 
 ## Age
 

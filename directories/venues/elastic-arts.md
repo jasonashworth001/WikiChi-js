@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Elastic Arts
+description: 3429 W. Diversey Avenue #208
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3429 W. Diversey Avenue #208, Chicago, IL 60647
 
 ## Overview
 
-Live music can be held any night of the week.
+"The Elastic Arts Foundation (EAF) is a 501(c)(3) not-for-profit organization focusing on music - art - performance." They host live music 4-5 nights a week; shows can be any night.
 
 ## Capacity
 
-
+240 standing, 120 seated.
 
 ## Contact
 
-(312) 835-0498
+(773) 772-3616
 
 ## Website
 
-https://basslinechi.com/
+https://elasticarts.org/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

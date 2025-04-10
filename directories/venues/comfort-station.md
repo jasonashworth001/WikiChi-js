@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Comfort Station
+description: 2579 N. Milwaukee Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2579 N. Milwaukee Avenue, Chicago, IL 60647
 
 ## Overview
 
-Live music can be held any night of the week.
+"Comfort Station's mission is to present multimedia arts programming that is open and accessible to anyone." Live music is typically held on Thursday nights. Shows are put on hold during the winter.
 
 ## Capacity
 
@@ -22,15 +22,15 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://comfortstationlogansquare.org/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

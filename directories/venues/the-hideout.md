@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Hideout
+description: 1354 W. Wabansia Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1354 W. Wabansia Avenue, Chicago, IL 60642
 
 ## Overview
 
-Live music can be held any night of the week.
+"Over 25 years of independent music and performance at Chicago's iconic venue/community space." Shows are held Wednesday-Saturday nights for the most part.
 
 ## Capacity
 
-
+100
 
 ## Contact
 
-(312) 835-0498
+(773) 227-4433
 
 ## Website
 
-https://basslinechi.com/
+https://hideoutchicago.com/
 
 ## Age
 

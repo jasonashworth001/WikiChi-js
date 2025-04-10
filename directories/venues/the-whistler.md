@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Whistler
+description: 2421 N. Milwaukee Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2421 N. Milwaukee Avenue, Chicago, IL 60647
 
 ## Overview
 
-Live music can be held any night of the week.
+This is a combined venue/bar/record label/art gallery that hosts live music Sunday-Wednesday nights. Thursday-Saturday nights are reserved for DJs and every Tuesday is The Whistler's Jazz series.
 
 ## Capacity
 
-
+74
 
 ## Contact
 
-(312) 835-0498
+(773) 227-3530
 
 ## Website
 
-https://basslinechi.com/
+https://whistlerchicago.com/
 
 ## Age
 

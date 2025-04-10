@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Thalia Hall
+description: 1807 S. Allport Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1807 S. Allport Street, Chicago, IL 60608
 
 ## Overview
 
-Live music can be held any night of the week.
+"Thalia Hall is a historic landmark located in the Pilsen neighborhood of Chicago." Shows can be held any night of the week. Age requirement can vary.
 
 ## Capacity
 
-
+650 - 900
 
 ## Contact
 
-(312) 835-0498
+(312) 526-3851
 
 ## Website
 
-https://basslinechi.com/
+https://www.thaliahallchicago.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

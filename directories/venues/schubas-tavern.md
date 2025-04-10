@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Schubas Tavern
+description: 3159 N. Southport Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3159 N. Southport Avenue, Chicago, IL 60657
 
 ## Overview
 
-Live music can be held any night of the week.
+"The building that houses Schubas Tavern is a brick and masonry neo-Gothic treasure that's been a Lake View neighborhood landmark for 100 years." Live music 7 nights a week. Shows can also be all ages or 21+ depending on what is arranged.
 
 ## Capacity
 
-
+200
 
 ## Contact
 
-(312) 835-0498
+(773) 525-2508
 
 ## Website
 
-https://basslinechi.com/
+https://lh-st.com/
 
 ## Age
 
-21+
+18+
 
 ## Hospitality
 

@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Burlington
+description: 3425 W. Fullerton Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3425 W. Fullerton Avenue, Chicago, IL 60647
 
 ## Overview
 
-Live music can be held any night of the week.
+Live music and/or DJs up to 7 nights a week.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+(773) 384-3243
 
 ## Website
 
-https://basslinechi.com/
+http://www.theburlingtonbar.com
 
 ## Age
 

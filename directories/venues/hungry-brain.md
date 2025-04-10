@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Hungry Brain
+description: 2319 W. Belmont Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2319 W. Belmont Avenue, Chicago, IL 60618
 
 ## Overview
 
-Live music can be held any night of the week.
+Live music is held on Tuesday, Thursday, Friday, Saturday, and Sunday nights with Tuesdays being reserved for a regular weekly performer.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://www.hungrybrainchicago.com/
 
 ## Age
 

@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Sandlot Wrigley
+description: 3477 N. Clark Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3477 N. Clark Street, Chicago, IL 60657
 
 ## Overview
 
-Live music can be held any night of the week.
+"Established in 2017 — Wrigleyville." They host live music on certain Saturdays only.
 
 ## Capacity
 
-
+100
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://www.instagram.com/thesandlotwrigley/
 
 ## Age
 

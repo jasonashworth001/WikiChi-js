@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Hard Rock Cafe
+description: 63 W. Ontario Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+63 W. Ontario Street, Chicago, IL 60654
 
 ## Overview
 
-Live music can be held any night of the week.
+They host live music on Fridays during happy hour and Saturdays later in the evening.Browse additional Hard Rock Cafe locations.
 
 ## Capacity
 
-
+600
 
 ## Contact
 
-(312) 835-0498
+(312) 943-2252
 
 ## Website
 
-https://basslinechi.com/
+https://www.hardrockcafe.com/location/chicago/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Liars Club
+description: 1665 W. Fullerton Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1665 W. Fullerton Avenue, Chicago, IL 60614
 
 ## Overview
 
-Live music can be held any night of the week.
+""TALL TALES OVER COCKTAILS." A CHICAGO (MENTAL) INSTITUTION SINCE 1995." They host live music on Friday and Saturday nights.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://www.liarsclubstore.com/
 
 ## Age
 

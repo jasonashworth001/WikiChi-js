@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Promontory
+description: 5311 S. Lake Park Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+5311 S. Lake Park Avenue, Chicago, IL 60615
 
 ## Overview
 
-Live music can be held any night of the week.
+"Hyde Park restaurant, bar, and music venue." Live music up to 7 nights a week. Unless stated otherwise, all early shows are all ages and all late shows are 17+.
 
 ## Capacity
 
-
+500
 
 ## Contact
 
-(312) 835-0498
+(312) 801-2100
 
 ## Website
 
-https://basslinechi.com/
+https://www.promontorychicago.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

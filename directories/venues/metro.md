@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Metro
+description: 3730 N. Clark Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3730 N. Clark Street, Chicago, IL 60613
 
 ## Overview
 
-Live music can be held any night of the week.
+Shows can take place any night of the week. All early shows are all ages and end at 10 PM. All late shows, beginning at 9 PM or later, are 18+ or 21+.
 
 ## Capacity
 
-
+1150 - main floor and the balcony.
 
 ## Contact
 
-(312) 835-0498
+(773) 549-4140
 
 ## Website
 
-https://basslinechi.com/
+https://metrochicago.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

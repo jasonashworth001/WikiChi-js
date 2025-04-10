@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Reggies Music Joint
+description: 2105 S. State Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2105 S. State Street, Chicago, IL 60616
 
 ## Overview
 
-Live music can be held any night of the week.
+Live music 7 nights a week. This venue is connected to and affiliated withReggies Rock Club.
 
 ## Capacity
 
-
+111
 
 ## Contact
 
-(312) 835-0498
+(312) 949-0120
 
 ## Website
 
-https://basslinechi.com/
+https://www.reggieslive.com/
 
 ## Age
 

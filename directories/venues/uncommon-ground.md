@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Uncommon Ground
+description: 3800 N. Clark Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3800 N. Clark Street, Chicago, IL 60613
 
 ## Overview
 
-Live music can be held any night of the week.
+They host live music every night of the week with open mic on Mondays.
 
 ## Capacity
 
-
+48 seated.
 
 ## Contact
 
-(312) 835-0498
+(773) 929-3680
 
 ## Website
 
-https://basslinechi.com/
+https://www.uncommonground.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

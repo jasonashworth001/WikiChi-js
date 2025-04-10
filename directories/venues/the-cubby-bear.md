@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Cubby Bear
+description: 1059 W. Addison Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1059 W. Addison Street, Chicago, IL 60613
 
 ## Overview
 
-Live music can be held any night of the week.
+"Chicago's iconic spot for Cubs post-game parties since 1978. Bar, restaurant & live music venue in the heart of Wrigleyville!" They can host live music any night of the week. Local showcases typically take place on Wednesday nights.
 
 ## Capacity
 
-
+800
 
 ## Contact
 
-(312) 835-0498
+(773) 327-1662
 
 ## Website
 
-https://basslinechi.com/
+https://www.cubbybear.com/
 
 ## Age
 

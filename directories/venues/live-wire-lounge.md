@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Live Wire Lounge
+description: 3394 N. Milwaukee Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3394 N. Milwaukee Avenue, Chicago, IL 60641
 
 ## Overview
 
-Live music can be held any night of the week.
+"Rock and roll bar and venue in Chicago, IL." Shows can be held any night of the week.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+http://www.livewireloungechicago.com
 
 ## Age
 

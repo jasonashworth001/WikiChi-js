@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Athenaeum Center For Thought  Culture
+description: 2936 N. Southport Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2936 N. Southport Avenue, Chicago, IL 60657
 
 ## Overview
 
-Live music can be held any night of the week.
+Shows can be held any night of the week.
 
 ## Capacity
 
-
+984
 
 ## Contact
 
-(312) 835-0498
+(312) 820-6250
 
 ## Website
 
-https://basslinechi.com/
+https://secure.athenaeumcenter.org/events
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

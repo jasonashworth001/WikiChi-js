@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Le Piano
+description: 6970 N. Glenwood Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+6970 N. Glenwood Avenue, Chicago, IL 60626
 
 ## Overview
 
-Live music can be held any night of the week.
+"Jazz, Booze & Butter | Destroy Your Reputation. Located in Rogers Park, Le Piano invents Chicago's most intimate and romantic north side bar." Live Jazz Thursday - Sunday nights with Sundays being a regular weekly performer/band.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+(773) 209-7631
 
 ## Website
 
-https://basslinechi.com/
+https://www.lepianochicago.com
 
 ## Age
 

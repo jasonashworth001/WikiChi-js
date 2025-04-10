@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Subterranean
+description: 2011 W. North Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2011 W. North Avenue, Chicago, IL 60647
 
 ## Overview
 
-Live music can be held any night of the week.
+Live music 7 nights a week. Shows can also be 17+ or 21+ depending on what is arranged. This venue is affiliated withBeat Kitchen.
 
 ## Capacity
 
-
+400 (music hall), 100 (downstairs).
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://www.subt.net/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

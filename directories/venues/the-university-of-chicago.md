@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The University Of Chicago
+description: 5801 South Ellis Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+5801 South Ellis Avenue, Chicago, IL 60637
 
 ## Overview
 
-Live music can be held any night of the week.
+
 
 ## Capacity
 
@@ -22,15 +22,15 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+http://uchicagomab.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

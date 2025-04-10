@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Emporium Arcade Bar Wicker Park
+description: 1366 N. Milwaukee Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1366 N. Milwaukee Avenue, Chicago, IL 60622
 
 ## Overview
 
-Live music can be held any night of the week.
+"Chicago's Original Arcade Bar!" Live music can be held any night of the week.
 
 ## Capacity
 
-
+350
 
 ## Contact
 
-(312) 835-0498
+(773) 697-7922
 
 ## Website
 
-https://basslinechi.com/
+https://www.emporiumarcadebar.com/locations/chicago/wicker-park/
 
 ## Age
 

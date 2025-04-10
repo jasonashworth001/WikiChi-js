@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Concord Music Hall
+description: 2047 N. Milwaukee Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2047 N. Milwaukee Avenue, Chicago, IL 60647
 
 ## Overview
 
-Live music can be held any night of the week.
+"Concord Music Hall is Chicago's premier mid-size venue, located between Wicker Park and Logan Square." Shows can be held any night of the week.
 
 ## Capacity
 
-
+1450 down to 200 (the room is scalable).
 
 ## Contact
 
-(312) 835-0498
+(773) 417-0216
 
 ## Website
 
-https://basslinechi.com/
+https://concordmusichall.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

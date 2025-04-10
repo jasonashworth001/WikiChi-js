@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Empty Bottle
+description: 1035 N. Western Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1035 N. Western Avenue, Chicago, IL 60622
 
 ## Overview
 
-Live music can be held any night of the week.
+"Music / Friendly / Dancing Since 1992⁣." Shows are held up to 7 nights a week.
 
 ## Capacity
 
-
+400
 
 ## Contact
 
-(312) 835-0498
+(773) 276-3600
 
 ## Website
 
-https://basslinechi.com/
+https://www.emptybottle.com/
 
 ## Age
 

@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Untitled Supper Club
+description: 111 W. Kinzie Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+111 W. Kinzie Street, Chicago, IL 60654
 
 ## Overview
 
-Live music can be held any night of the week.
+"Untitled Supper Club is a contemporary revival of a classic Prohibition-era supper club, hidden away in the heart of Chicago's River North neighborhood." They host live music Wednesday-Saturday nights.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+(312) 880-1511
 
 ## Website
 
-https://basslinechi.com/
+https://untitledsupperclub.com/
 
 ## Age
 

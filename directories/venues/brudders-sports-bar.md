@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Brudders Sports Bar
+description: 3600 N. Pulaski Road
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3600 N. Pulaski Road, Chicago, IL 60641
 
 ## Overview
 
-Live music can be held any night of the week.
+"We are a corner bar/restaurant with alot of heart. LIVE MUSIC now playing Thursday-Saturday!"
 
 ## Capacity
 
-
+100
 
 ## Contact
 
-(312) 835-0498
+(773) 283-8700
 
 ## Website
 
-https://basslinechi.com/
+https://bruddersbar.com/
 
 ## Age
 

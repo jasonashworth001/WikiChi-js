@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Chicago State University
+description: 9501 S. King Drive
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+9501 S. King Drive, Chicago, IL 60628
 
 ## Overview
 
-Live music can be held any night of the week.
+
 
 ## Capacity
 
@@ -22,15 +22,15 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://www.csu.edu/dosa/studentactivities/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

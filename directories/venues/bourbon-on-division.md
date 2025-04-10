@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Bourbon On Division
+description: 2050 Division Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2050 Division Street, Chicago, IL 60622
 
 ## Overview
 
-Live music can be held any night of the week.
+"Late night whisky bar with food, live music, and private events." Shows can be held any night of the week.
 
 ## Capacity
 
-
+200
 
 ## Contact
 
-(312) 835-0498
+(773) 796-5879
 
 ## Website
 
-https://basslinechi.com/
+https://bourbonondivision.com/
 
 ## Age
 

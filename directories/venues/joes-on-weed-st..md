@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Joes On Weed St.
+description: 940 W. Weed Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+940 W. Weed Street, Chicago, IL 60642
 
 ## Overview
 
-Live music can be held any night of the week.
+Most shows take place Thursday-Saturday nights.
 
 ## Capacity
 
-
+240 - 800
 
 ## Contact
 
-(312) 835-0498
+(312) 273-5118
 
 ## Website
 
-https://basslinechi.com/
+https://joesbar.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

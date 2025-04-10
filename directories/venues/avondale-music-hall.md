@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Avondale Music Hall
+description: 3336 N. Milwaukee Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3336 N. Milwaukee Avenue, Chicago, IL 60641
 
 ## Overview
 
-Live music can be held any night of the week.
+"Located in the booming Avondale neighborhood." Shows can be held any night of the week.
 
 ## Capacity
 
-
+750
 
 ## Contact
 
-(312) 835-0498
+(708) 669-7380
 
 ## Website
 
-https://basslinechi.com/
+https://www.avondalemusichall.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

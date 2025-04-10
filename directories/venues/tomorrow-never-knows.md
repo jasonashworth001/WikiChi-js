@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Tomorrow Never Knows
+description: 
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+, Chicago, IL 60614
 
 ## Overview
 
-Live music can be held any night of the week.
+"Chicago's premier winter music festival with shows at Lincoln Hall, Schubas, Hideout, Sleeping Village, and Metro!" The festival takes place in mid January.
 
 ## Capacity
 
@@ -22,15 +22,15 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://instagram.com/tnkfest
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

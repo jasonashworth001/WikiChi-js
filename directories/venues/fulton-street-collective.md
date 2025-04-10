@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Fulton Street Collective
+description: 1821 W. Hubbard Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+1821 W. Hubbard Street, Chicago, IL 60622
 
 ## Overview
 
-Live music can be held any night of the week.
+Shows are primarily held Tuesday-Thursday nights.
 
 ## Capacity
 
-
+100
 
 ## Contact
 
-(312) 835-0498
+(773) 852-2481
 
 ## Website
 
-https://basslinechi.com/
+https://fultonstreetcollective.com/
 
 ## Age
 
-21+
+All
 
 ## Hospitality
 

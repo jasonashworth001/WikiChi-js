@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Wild Hare
+description: 2610 N. Halstead Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2610 N. Halstead Avenue, Chicago, IL 60614
 
 ## Overview
 
-Live music can be held any night of the week.
+"The best live reggae music nightly, great Caribbean food, late kitchen and Irie Times!" Live music is held on Tuesday, Thursday, Friday, Saturday, and Sunday nights.
 
 ## Capacity
 
-
+200
 
 ## Contact
 
-(312) 835-0498
+(773) 697-7771
 
 ## Website
 
-https://basslinechi.com/
+https://wildharemusic.com/
 
 ## Age
 

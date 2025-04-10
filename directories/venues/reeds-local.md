@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Reeds Local
+description: 3017 W. Belmont Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3017 W. Belmont Avenue, Chicago, IL 60618
 
 ## Overview
 
-Live music can be held any night of the week.
+This neighborhood bar hosts most shows Thursday-Saturday nights.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+(872) 806-0520
 
 ## Website
 
-https://basslinechi.com/
+https://reedslocal.com
 
 ## Age
 

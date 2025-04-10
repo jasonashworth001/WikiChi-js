@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Underground Lounge
+description: 952 W. Newport Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+952 W. Newport Avenue, Chicago, IL 60657
 
 ## Overview
 
-Live music can be held any night of the week.
+Most shows take place on Thursday, Friday, and Saturday nights.
 
 ## Capacity
 
-
+100
 
 ## Contact
 
-(312) 835-0498
+(773) 799-8833
 
 ## Website
 
-https://basslinechi.com/
+https://www.facebook.com/ULoungeChicago
 
 ## Age
 

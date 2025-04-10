@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Winters Jazz Club
+description: 465 N. McClurg Court
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,23 +10,23 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+465 N. McClurg Court, Chicago, IL 60611
 
 ## Overview
 
-Live music can be held any night of the week.
+"Chicago's new home for straight-ahead, classic jazz!" Live music 65 nights a week, Wednesday-Sunday.
 
 ## Capacity
 
-
+151 total - 125 (listening room), 26 (bar).
 
 ## Contact
 
-(312) 835-0498
+(312) 344-1270
 
 ## Website
 
-https://basslinechi.com/
+https://www.wintersjazzclub.com/
 
 ## Age
 

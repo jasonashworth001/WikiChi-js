@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: The Store
+description: 2002 N. Halsted Street
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,11 +10,11 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+2002 N. Halsted Street, Chicago, IL 60614
 
 ## Overview
 
-Live music can be held any night of the week.
+This pub hosts most shows on Friday and Saturday nights.
 
 ## Capacity
 
@@ -22,11 +22,11 @@ Live music can be held any night of the week.
 
 ## Contact
 
-(312) 835-0498
+(773) 327-7766
 
 ## Website
 
-https://basslinechi.com/
+https://storefm.com/
 
 ## Age
 

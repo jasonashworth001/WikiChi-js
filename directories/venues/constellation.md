@@ -1,6 +1,6 @@
 ---
-title: Bassline
-description: 2239 S. Michigan Avenue
+title: Constellation
+description: 3111 N. Western Avenue
 published: true
 date: 2025-04-10T04:22:06.515496Z
 tags: venue
@@ -10,27 +10,27 @@ dateCreated: 2025-04-10T04:00:00Z
 
 ## Address
 
-2239 S. Michigan Avenue, Chicago, IL 60616
+3111 N. Western Avenue, Chicago, IL 60618
 
 ## Overview
 
-Live music can be held any night of the week.
+"Constellation is a venue on Chicago's North West side. It is in the once Viaduct theater." Shows can be held any night of the week.
 
 ## Capacity
 
-
+100 (Studio A), 150 - 250 (Studio B).
 
 ## Contact
 
-(312) 835-0498
+
 
 ## Website
 
-https://basslinechi.com/
+https://www.constellation-chicago.com
 
 ## Age
 
-21+
+18+
 
 ## Hospitality
 

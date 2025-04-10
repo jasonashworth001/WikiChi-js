@@ -2,7 +2,7 @@
 title: Venues
 description: A collection of Chicago venues.
 published: true
-date: 2025-04-10T04:58:19.059Z
+date: 2025-04-10T05:03:58.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-10T02:09:33.665Z

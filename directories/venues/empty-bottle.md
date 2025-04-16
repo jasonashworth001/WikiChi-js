@@ -2,10 +2,10 @@
 title: Empty Bottle
 description: 1035 N. Western Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
-tags: venue
+date: 2025-04-16T05:47:46.097Z
+tags: venue, bar
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:41.700Z
 ---
 
 ## Address
@@ -34,15 +34,15 @@ https://www.emptybottle.com/
 
 ## Hospitality
 
-Green Room: [Yes/No]  
-Private Bathroom: [Yes/No]  
-Shower: [Yes/No]  
-Laundry: [Yes/No]
+Green Room: Yes  
+Private Bathroom: Yes  
+Shower: No (?)  
+Laundry: No (?)
 
 ## Parking
 
-[Add parking details here]
+Street parking, can be tricky.  watch out for permit parking zones. 
 
 ## Accessibility & Inclusion
 
-[Add accessibility notes here]
+Entrance and bar are located on ground level. FOH booth is located up 4(?) stairs.  Green room is located down a flight of stairs in the basement. 

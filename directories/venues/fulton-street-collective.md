@@ -2,10 +2,10 @@
 title: Fulton Street Collective
 description: 1821 W. Hubbard Street
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:14.961Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:46.971Z
 ---
 
 ## Address

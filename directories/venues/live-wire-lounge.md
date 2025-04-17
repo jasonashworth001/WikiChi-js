@@ -2,10 +2,10 @@
 title: Live Wire Lounge
 description: 3394 N. Milwaukee Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:53.969Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:22.130Z
 ---
 
 ## Address

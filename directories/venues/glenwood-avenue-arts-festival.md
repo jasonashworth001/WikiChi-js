@@ -2,10 +2,10 @@
 title: Glenwood Avenue Arts Festival
 description: 6900-7100 North Glenwood Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:20.065Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:52.248Z
 ---
 
 ## Address

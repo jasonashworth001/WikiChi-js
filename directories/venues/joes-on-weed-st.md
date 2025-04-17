@@ -1,32 +1,32 @@
 ---
-title: Avondale Music Hall
-description: 3336 N. Milwaukee Avenue
+title: Joes On Weed St.
+description: 940 W. Weed Street
 published: true
-date: 2025-04-17T05:16:09.995Z
+date: 2025-04-17T05:17:42.901Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:46:42.772Z
+dateCreated: 2025-04-10T04:52:12.325Z
 ---
 
 ## Address
 
-3336 N. Milwaukee Avenue, Chicago, IL 60641
+940 W. Weed Street, Chicago, IL 60642
 
 ## Overview
 
-"Located in the booming Avondale neighborhood." Shows can be held any night of the week.
+Most shows take place Thursday-Saturday nights.
 
 ## Capacity
 
-750
+240 - 800
 
 ## Contact
 
-(708) 669-7380
+(312) 273-5118
 
 ## Website
 
-https://www.avondalemusichall.com/
+https://joesbar.com/
 
 ## Age
 

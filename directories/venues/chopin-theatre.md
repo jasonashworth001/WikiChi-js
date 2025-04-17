@@ -2,10 +2,10 @@
 title: Chopin Theatre
 description: 1543 W. Division Street
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:16:42.132Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:16.360Z
 ---
 
 ## Address

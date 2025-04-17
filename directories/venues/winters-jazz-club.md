@@ -2,10 +2,10 @@
 title: Winters Jazz Club
 description: 465 N. McClurg Court
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:19:25.057Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:53:57.396Z
 ---
 
 ## Address

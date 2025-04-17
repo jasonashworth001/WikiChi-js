@@ -2,10 +2,10 @@
 title: Park West
 description: 322 W. Armitage Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:18:11.272Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:40.220Z
 ---
 
 ## Address

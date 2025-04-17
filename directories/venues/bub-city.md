@@ -2,10 +2,10 @@
 title: Bub City
 description: 435 N. Clark Street
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:16:26.914Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:04.083Z
 ---
 
 ## Address

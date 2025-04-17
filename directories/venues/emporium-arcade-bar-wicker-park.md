@@ -2,10 +2,10 @@
 title: Emporium Arcade Bar Wicker Park
 description: 1366 N. Milwaukee Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:07.178Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:39.245Z
 ---
 
 ## Address

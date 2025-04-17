@@ -2,10 +2,10 @@
 title: Untitled Supper Club
 description: 111 W. Kinzie Street
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:19:19.573Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:53:51.408Z
 ---
 
 ## Address

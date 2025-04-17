@@ -2,10 +2,10 @@
 title: Loyola University Chicago
 description: 1032 West Sheridan Road
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:56.621Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:24.766Z
 ---
 
 ## Address

@@ -2,10 +2,10 @@
 title: Firewater Saloon Edison Park
 description: 6689 N. Oliphant Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:12.428Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:44.217Z
 ---
 
 ## Address

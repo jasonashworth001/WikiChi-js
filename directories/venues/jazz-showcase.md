@@ -2,10 +2,10 @@
 title: Jazz Showcase
 description: 806 S. Plymouth Court
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:39.966Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:09.822Z
 ---
 
 ## Address

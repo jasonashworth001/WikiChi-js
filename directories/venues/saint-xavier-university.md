@@ -2,10 +2,10 @@
 title: Saint Xavier University
 description: 3700 West 103rd Street
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:18:28.741Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:57.871Z
 ---
 
 ## Address

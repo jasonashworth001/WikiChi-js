@@ -1,11 +1,11 @@
 ---
 title: Elastic Arts
-description: 3429 W. Diversey Avenue #208
+description: 3429 W. Diversey Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:04.205Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:36.710Z
 ---
 
 ## Address

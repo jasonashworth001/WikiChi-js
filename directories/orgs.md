@@ -1,8 +1,8 @@
 ---
 title: Organizations
-description: Organizations, collectives, and other groups that serve Chicago communities and beyond.
+description: Organizations, collectives, and other groups that serve Chicago communities.
 published: true
-date: 2025-04-17T05:19:30.519Z
+date: 2025-04-17T05:33:33.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-17T05:09:39.614Z

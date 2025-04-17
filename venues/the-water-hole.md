@@ -2,10 +2,10 @@
 title: The Water Hole
 description: 1400 S. Western Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:19:05.826Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:53:36.894Z
 ---
 
 ## Address

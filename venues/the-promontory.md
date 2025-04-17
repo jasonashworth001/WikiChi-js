@@ -2,10 +2,10 @@
 title: The Promontory
 description: 5311 S. Lake Park Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:18:54.642Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:53:24.611Z
 ---
 
 ## Address

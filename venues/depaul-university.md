@@ -2,10 +2,10 @@
 title: Depaul University
 description: 1 East Jackson Boulevard
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:16:58.608Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:31.706Z
 ---
 
 ## Address

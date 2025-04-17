@@ -2,10 +2,10 @@
 title: Wild Hare
 description: 2610 N. Halstead Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:19:22.429Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:53:54.395Z
 ---
 
 ## Address

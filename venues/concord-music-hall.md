@@ -2,10 +2,10 @@
 title: Concord Music Hall
 description: 2047 N. Milwaukee Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:16:53.271Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:51:26.560Z
 ---
 
 ## Address

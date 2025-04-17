@@ -1,15 +1,13 @@
 ---
 title: Organizations
-description: 
+description: Organizations, collectives, and other groups that serve Chicago communities.
 published: true
-date: 2025-04-10T02:24:40.925Z
+date: 2025-04-17T05:33:33.201Z
 tags: 
 editor: markdown
-dateCreated: 2025-04-10T02:24:40.925Z
+dateCreated: 2025-04-17T05:09:39.614Z
 ---
 
-## List of Orgs
+## List of Organizations
 
-- asdf
-- asdf
-- asdf
+<div id="pageTree">Loading pages...</div>

@@ -2,10 +2,10 @@
 title: Reggies Rock Club
 description: 2109 S. State Street
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:18:23.039Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:52.165Z
 ---
 
 ## Address

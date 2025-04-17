@@ -2,10 +2,10 @@
 title: Avondale Music Hall
 description: 3336 N. Milwaukee Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:16:09.995Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:46:42.772Z
 ---
 
 ## Address

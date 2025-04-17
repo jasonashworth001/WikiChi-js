@@ -2,10 +2,10 @@
 title: Birds Nest
 description: 2500 N. Southport Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:16:15.530Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:50:54.041Z
 ---
 
 ## Address

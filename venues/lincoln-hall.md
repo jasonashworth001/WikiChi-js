@@ -2,10 +2,10 @@
 title: Lincoln Hall
 description: 2424 N. Lincoln Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:17:51.404Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:19.611Z
 ---
 
 ## Address

@@ -2,10 +2,10 @@
 title: Old Town School Of Folk Music
 description: 4544 N. Lincoln Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:18:08.197Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:52:37.270Z
 ---
 
 ## Address

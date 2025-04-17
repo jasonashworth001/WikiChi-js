@@ -2,10 +2,10 @@
 title: Sleeping Village
 description: 3734 W. Belmont Avenue
 published: true
-date: 2025-04-10T04:22:06.515496Z
+date: 2025-04-17T05:18:34.812Z
 tags: venue
 editor: markdown
-dateCreated: 2025-04-10T04:00:00Z
+dateCreated: 2025-04-10T04:53:03.780Z
 ---
 
 ## Address

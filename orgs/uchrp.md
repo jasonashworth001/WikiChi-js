@@ -3,7 +3,7 @@ title: University of Chicago Harm Reduction Project
 description: UChicago students dedicated to promoting harm reduction on campus and in Chicagoland. 
 published: true
 date: 2025-04-17T05:49:15.589Z
-tags: 
+tags: organization
 editor: markdown
 dateCreated: 2025-04-17T05:49:15.588Z
 ---

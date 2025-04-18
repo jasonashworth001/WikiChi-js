@@ -3,7 +3,7 @@ title: Chicago Abortion Fund
 description: Funding abortion & buildng power in Illinois and the Midwest.
 published: true
 date: 2025-04-17T06:42:55.407Z
-tags: healthcare
+tags: healthcare, organization
 editor: markdown
 dateCreated: 2025-04-17T06:42:55.406Z
 ---

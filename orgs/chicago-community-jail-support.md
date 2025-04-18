@@ -3,7 +3,7 @@ title: Chicago Community Jail Support
 description: Volunteer mutual aid network supporting those recently released from Cook County Jail.
 published: true
 date: 2025-04-17T05:19:27.843Z
-tags: mutual aid, volunteer
+tags: mutual aid, volunteer, organization
 editor: markdown
 dateCreated: 2025-04-17T05:05:51.391Z
 ---

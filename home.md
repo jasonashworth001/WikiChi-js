@@ -2,7 +2,7 @@
 title: Hello!
 description: Welcome to WikiChi, a knowledge base for Chicago musicians.
 published: true
-date: 2025-05-05T04:23:51.734Z
+date: 2025-05-05T05:20:29.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T05:46:33.336Z
@@ -20,7 +20,7 @@ Onward & upward!
 ---
 - [Discord](https://discord.gg/DgfRvyFt)
 - [Drive](https://drive.wikichi.org)
-- [Docs](https://docs.wikichi.org)
+- [Notepad](https://notes.wikichi.org)
 
 ```plaintext
 
